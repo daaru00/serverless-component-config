@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/shared-config",
+  "name": "@serverless/config",
   "version": "1.0.0",
   "main": "./serverless.js",
   "publishConfig": {
