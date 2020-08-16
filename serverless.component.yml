@@ -1,10 +1,10 @@
 name: config
-version: 1.0.0
+version: 1.0.1
 author: daaru
 org: daaru
 description: Stores project's sharing configs and retrieve them via component outputs
 keywords: serverless, config
-repo: https://github.com/daaru00/serverless-component-shared-config
+repo: https://github.com/daaru00/serverless-component-config
 readme: ''
 license: MIT
 main: ./src
